@@ -1,0 +1,6 @@
+jgon
+bluzgul
+jupyter
+docker
+python
+c plus plus
